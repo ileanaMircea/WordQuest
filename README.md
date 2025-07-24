@@ -1,5 +1,5 @@
 **WordQuest - Mobile Language Learning App**
-WordQuest is a mobile language learning application that combines proven spaced-repetition techniques with engaging interactive features to make language learning more effective and enjoyable.
+WordQuest is a mobile language learning application that combines a spaced-repetition algorithm (SM-2) with interactive features to make language learning more enjoyable, especially for literature lovers.
 
 **Features**
 
