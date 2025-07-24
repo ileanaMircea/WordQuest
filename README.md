@@ -3,10 +3,10 @@ WordQuest is a mobile language learning application that combines a spaced-repet
 
 <h2> Features </h2>
 
-Spaced Repetition Learning: Built on the SM-2 algorithm (used by Anki) for optimal memory retention
-Interactive Reading: Access to books from Project Gutenberg with integrated learning tools
-Gamified Learning: Drag-and-drop games and other interactive exercises using your flashcard decks
-Smart Flashcards: Adaptive learning system that adjusts to your progress
+Spaced Repetition Learning: Built on the SM-2 algorithm for memory retention  
+Interactive Reading: Access to books from Project Gutenberg with integrated learning tools  
+Gamified Learning: Drag-and-drop games and other interactive exercises using flashcard decks  
+Smart Flashcards: Adaptive learning system that adjusts to your progress  
 
 <h2> Technologies Used </h2>
 
