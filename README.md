@@ -1,7 +1,7 @@
-<h1>**WordQuest - Mobile Language Learning App** </h1>
+<h1> WordQuest - Mobile Language Learning App </h1>  
 WordQuest is a mobile language learning application that combines a spaced-repetition algorithm (SM-2) with interactive features to make language learning more enjoyable, especially for literature lovers.
 
-**Features**
+<h2> **Features** </h2>
 
 Spaced Repetition Learning: Built on the SM-2 algorithm (used by Anki) for optimal memory retention
 Interactive Reading: Access to books from Project Gutenberg with integrated learning tools
