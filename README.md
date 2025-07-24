@@ -10,21 +10,21 @@ Smart Flashcards: Adaptive learning system that adjusts to your progress
 
 <h2> Technologies Used </h2>
 
-Java 8 - Core application development
-Firebase BaaS - Backend services and data management
-OpenAI API - AI-powered language processing and content generation
+Java 8 - Core application development  
+Firebase BaaS - Backend services and data management  
+OpenAI API - AI-powered language processing and content generation  
 
 <h2> Prerequisites </h2>
 
-Android device or emulator
-OpenAI API Key - Required for AI features 
+Android device or emulator  
+OpenAI API Key - Required for AI features  
 
 <h2> Setup </h2>
 
-Clone this repository
-Open the project in Android Studio
-Add your OpenAI API key to the configuration
-Build and run the application
+Clone this repository  
+Open the project in Android Studio  
+Add your OpenAI API key to the configuration  
+Build and run the application  
 
  
 **Content Sources**
