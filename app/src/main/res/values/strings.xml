@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">LicentFront</string>
+    <string name="hint_email">email@example.com</string>
+    <string name="underlined_text"><u>Underlined Text</u></string>
+    <string-array name="language_options">
+        <item>French</item>
+        <item>German</item>
+        <item>English</item>
+        <item>Spanish</item>
+        <item>Italian</item>
+        <item>Polish</item>
+        <item>Dutch</item>
+        <item>Portuguese</item>
+        <item>Romanian</item>
+        <item>Czech</item>
+    </string-array>
+
+</resources>

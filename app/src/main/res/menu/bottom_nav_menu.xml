@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_read"
+        android:icon="@drawable/book_svg"
+        android:title="@null"  />
+    <item
+        android:id="@+id/nav_profile"
+        android:icon="@drawable/profile_icon"
+        android:title="@null"
+        />
+    <item
+        android:id="@+id/nav_decks"
+        android:icon="@drawable/decks_svg"
+        android:title="@null"  />
+</menu>

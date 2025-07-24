@@ -1,0 +1,76 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/dialog"
+    android:orientation="vertical"
+    android:padding="24dp"
+    android:gravity="center"
+    android:layout_gravity="center">
+
+    <ImageView
+        android:id="@+id/dialog_back"
+        android:layout_width="33dp"
+        android:layout_height="41dp"
+        android:layout_gravity="start"
+        android:layout_marginBottom="8dp"
+        android:src="@drawable/back" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Language"
+        android:fontFamily="@font/istokweb_italic"
+        android:textSize="28sp"
+        android:textColor="@color/black"
+        android:gravity="center" />
+
+    <EditText
+        android:id="@+id/edit_language"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/input_dialog"
+        android:layout_marginTop="8dp"
+        android:padding="10dp"
+        android:inputType="text"
+        android:textColor="@color/black"
+        android:fontFamily="@font/istokweb_italic"
+        android:hint="French" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Deck title"
+        android:textSize="28sp"
+        android:fontFamily="@font/istokweb_italic"
+        android:gravity="center"
+        android:textColor="@color/black"
+        android:layout_marginTop="28dp" />
+
+    <EditText
+        android:id="@+id/edit_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/input_dialog"
+        android:layout_marginTop="8dp"
+        android:padding="10dp"
+        android:inputType="text"
+        android:textColor="@color/black"
+        android:fontFamily="@font/istokweb_italic"
+        android:hint="Common Verbs" />
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/btn_save"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp"
+        android:backgroundTint="#D94F5C"
+        android:paddingLeft="30dp"
+        android:paddingRight="30dp"
+        android:elevation="28dp"
+        android:translationZ="8dp"
+        android:fontFamily="@font/istokweb_bold"
+        android:text="Save"
+        android:textSize="24dp"
+        android:textColor="@color/black" />
+</LinearLayout>
