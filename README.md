@@ -1,4 +1,4 @@
-<h1>WordQuest - Mobile Language Learning App <\h1>
+<h1>**WordQuest - Mobile Language Learning App** </h1>
 WordQuest is a mobile language learning application that combines a spaced-repetition algorithm (SM-2) with interactive features to make language learning more enjoyable, especially for literature lovers.
 
 **Features**
